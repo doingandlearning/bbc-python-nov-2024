@@ -1,0 +1,4 @@
+Hello, how are you?
+Python is fun!
+Writing to files looks okay
+1 + 1 = 2
