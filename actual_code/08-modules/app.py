@@ -21,3 +21,5 @@ food_options = ["Chinese", "Thai", "Burgers", "Popeyes", "Pizza", "Nandos"]
 print(choice(food_options))
 
 print(food_options[random.randint(0, len(food_options) - 1)])
+
+print(max([1, 2, 3,4,5,6]))

@@ -8,6 +8,9 @@ greet()
 greet()
 
 def find_average(input_list):
+    """
+    This is a function to find the average - you must pass a list.
+    """
     if type(input_list) is list:
         print(sum(input_list)/len(input_list))
     else:
@@ -33,3 +36,4 @@ greet("Jena", "Hope you're feeling better - thanks for the typo corrections!")
 greet("Daniel", "Do you miss the warmer weather?")
 
 # function func
+find_average()
